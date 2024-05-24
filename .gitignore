@@ -1,0 +1,7 @@
+**.pt
+**.pth
+**.ckpt
+**__pycache__**
+sample_dataset
+**lightning_logs**
+research
