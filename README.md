@@ -54,7 +54,7 @@ We welcome contributions to enhance ContrastiveBERT. If you have any ideas, sugg
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
 ## Contact
-For any questions or inquiries, please contact [Jahid Basher](mailto:jahid@example.com).
+For any questions or inquiries, please contact [Jahid Ibna Basher](mailto:mohammadjahid1504037@gmail.com).
 
 ## Cite
 ```python
