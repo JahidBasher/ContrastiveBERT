@@ -60,7 +60,7 @@ For any questions or inquiries, please contact [Jahid Basher](mailto:jahid@examp
 ```python
 @misc{ContrastiveBERT2024,
   author       = {Mohammad Jahid Ibna Basher},
-  title        = {Parallel Linguistic Representation Learning using Contrastive Learnining And Masked Language Modeling},
+  title        = {Parallel Linguistic Representation Learning using Contrastive Learning And Masked Language Modeling},
   year         = {2024},
   url          = {https://github.com/JahidBasher/ContrastiveBERT},
   note         = {GitHub repository}
