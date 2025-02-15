@@ -1,7 +1,7 @@
 # ContrastiveBERT
 ContrastiveBERT is a sophisticated implementation of a BERT-based model designed for contrastive learning and masked language modeling (MLM). This project leverages the power of contrastive loss to enhance the contextual representation of text data, making it highly effective for various natural language processing (NLP) tasks. The model is implemented using PyTorch Lightning, ensuring scalability, modularity, and ease of experimentation.
 
-## Technical Novelty
+## Novelty
 ContrastiveBERT integrates several innovative features and techniques:
 
 1. **Contrastive Loss with InfoNCE**: The model uses a contrastive learning objective (InfoNCE loss) to improve the quality of representations by encouraging the model to distinguish between similar and dissimilar samples. This is achieved by computing similarities between pairs of representations and maximizing agreement between positive pairs while minimizing agreement between negative pairs.
@@ -9,7 +9,7 @@ ContrastiveBERT integrates several innovative features and techniques:
 2. **Masked Language Modeling (MLM)**: In addition to contrastive learning, the model employs the MLM objective, where random tokens in the input are masked, and the model is trained to predict these masked tokens. This enhances the model's understanding of the contextual information within a sentence.
 
 
-## Applied Usecases
+## Applications
 ContrastiveBERT can be applied to a wide range of NLP tasks and applications, including but not limited to:
 
 1. **Text Classification**: Leverage the enhanced contextual representations for tasks such as sentiment analysis, spam detection, and topic classification.
